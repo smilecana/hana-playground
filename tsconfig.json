@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "incremental": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve"
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+, "pages/about.js", "components/nav.js", "components/right_nav.js", "components/lists.js", "components/card.js", "pages/works/index.js", "pages/works/layout.js", "pages/portfolio/layout.js"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

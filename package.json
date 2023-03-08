@@ -1,4 +1,7 @@
 {
+  "name": "hana-playground",
+  "version": "1.0.0",
+  "author": "hana.park88@hotmail.com",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -6,8 +9,25 @@
     "start": "next start"
   },
   "dependencies": {
+    "@fluentui/react": "^8.106.3",
+    "clsx": "^1.2.1",
+    "date-fns": "^2.29.3",
+    "gray-matter": "^4.0.3",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-markdown": "^8.0.5",
+    "rehype-raw": "^6.1.1",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "18.14.0",
+    "@types/react": "18.0.28",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "sass": "^1.58.3",
+    "tailwindcss": "^3.2.7",
+    "typescript": "4.9.5"
   }
 }
