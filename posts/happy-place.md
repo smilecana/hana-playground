@@ -15,9 +15,9 @@ The main purpose of exercise is to learn innovation technologies and lauching ve
 
 > **Project period:** Jan. 2022 - Apr. 2022
 
-> **URL:** [click](https://happy-place-team7.herokuapp.com/)
+> **URL:** [click](https://happy-place.azurewebsites.net/)
 
-> **Git:**[click](https://happy-place-team7.herokuapp.com/)
+> **Git:**[click](https://github.com/smilecana/dal-4193-project.git)
 
 ![HappyPlaceMain](/images/works/happy_place/img_1.png)
 
@@ -26,6 +26,12 @@ The main purpose of exercise is to learn innovation technologies and lauching ve
 > **Back-end:** Node.js, MongoDB
 
 > **DevOps:** GitHub, Azure
+
+---
+
+### Sample test user credentials
+
+user123@gmail.com/User!234
 
 ---
 

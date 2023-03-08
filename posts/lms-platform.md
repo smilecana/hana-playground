@@ -15,9 +15,7 @@ The main objective of this project is to gain a comprehensive understanding of w
 
 > **Project period:** May. 2021 - Jun. 2021
 
-> **URL:** [click](https://csci4177-project.herokuapp.com/)
-
-> **Git:** [click](https://github.com/smilecana/Dal-CSCI4177-Project)
+> **Git:** [click](https://github.com/smilecana/dal-CSCI4177-Project.git)
 
 ![LearningManagementMain](/images/works/lms/img_1.png)
 
