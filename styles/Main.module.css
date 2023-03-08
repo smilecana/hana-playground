@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&family=Coming+Soon&family=Mynerve&family=Syne+Mono&family=Ubuntu:wght@300&display=swap');
+.main_wrap {
+    display: grid;
+    grid-template-columns: [first-line] 3fr [second-line] 6fr[third-line] 3fr [last-line];
+    box-sizing: border-box;
+    height: 100vh;
+    max-width: 1980px;
+    overflow: hidden;
+    box-shadow: 12px 12px 2px 1px rgb(0 0 255 / 20%);
+    border-right: 1px solid #ffffff;
+}
